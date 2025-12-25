@@ -21,7 +21,7 @@ def describe_person(name, age=30):
     print(f"Возраст: {age}")
 describe_person("Сергей")
 
-
+#3
 a = int(input("Enter a number: "))
 def is_prime(number):
     if number <= 1:
@@ -37,6 +37,7 @@ def is_prime(number):
         i += 2
     return True
 print(is_prime(a))
+
 
 
 
