@@ -1,7 +1,7 @@
 #1
 def greet(name):
     print(f"Привет, {name}")
-greet("Сергей")\
+greet("Сергей")
 
 def square(number):
     return number * number
@@ -37,6 +37,7 @@ def is_prime(number):
         i += 2
     return True
 print(is_prime(a))
+
 
 
 
